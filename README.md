@@ -45,3 +45,4 @@ RTL VIEWER:
 ![image](https://github.com/Meetha22003992/Simulation-project--Digital-Electronics/assets/119401038/a33b4ceb-b68e-4a9e-9b75-d32edf5ee2af)
 
 # RESULT:
+Thus the program to stimulate a mod 3 synchronous counter with JK flip-flop is verified.
