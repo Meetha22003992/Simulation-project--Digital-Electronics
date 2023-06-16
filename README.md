@@ -41,6 +41,7 @@ TIMING DIAGRAM:
 ![image](https://github.com/Meetha22003992/Simulation-project--Digital-Electronics/assets/119401038/e7a33c2d-fbf2-49d8-b6a3-37e595951c7e)
 
 RTL VIEWER:
+
 ![image](https://github.com/Meetha22003992/Simulation-project--Digital-Electronics/assets/119401038/a33b4ceb-b68e-4a9e-9b75-d32edf5ee2af)
 
 # RESULT:
